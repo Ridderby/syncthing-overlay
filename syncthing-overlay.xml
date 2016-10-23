@@ -3,11 +3,11 @@
   <repo priority="50" quality="experimental">
     <name>syncthing-overlay</name>
     <description>Overlay for Syncthing and tools.</description>
-    <homepage>https://bitbucket.org/ridderby/syncthing-overlay</homepage>
+    <homepage>https://github.com/Ridderby/syncthing-overlay</homepage>
     <owner>
-      <email>erik@ridderby.se</email>
+      <email>tech@rby.nu</email>
       <name>Erik Ridderby</name>
     </owner>
-    <source type="mercurial">https://bitbucket.org/ridderby/syncthing-overlay</source>
+    <source type="git">https://github.com/Ridderby/syncthing-overlay.git</source>
   </repo>
 </repositories>

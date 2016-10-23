@@ -27,4 +27,4 @@ As a security measure layman will ask for confirmation before this overlay is ad
 You can now instgall included applications as usual using emerge. To stress that you want to use the overlay version and not allow for a later portage version being installed, emerge package using ::syncthing-overlay. Example: `emerge -vatD syncthing::syncthing-overlay`
 
 # Bug, comments and requests
-Please post a ticket on bitbucket.
+Please post a tickethere on GitHub. 
