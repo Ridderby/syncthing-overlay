@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>syncthing-overlay</name>
+    <description>Overlay for Syncthing and tools.</description>
+    <homepage>https://bitbucket.org/ridderby/syncthing-overlay</homepage>
+    <owner>
+      <email>erik@ridderby.se</email>
+      <name>Erik Ridderby</name>
+    </owner>
+    <source type="mercurial">https://bitbucket.org/ridderby/syncthing-overlay</source>
+  </repo>
+</repositories>
